@@ -1,0 +1,11 @@
+
+#register-main{
+    width:77%;
+    margin:40px auto;
+}
+.register-box{
+    min-height:200px;
+    background:#fff;
+    border:1px solid #ddd;
+    border-radius: 5px;
+}
